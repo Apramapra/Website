@@ -1,8 +1,8 @@
 {
   "name": "earning-platform",
   "version": "1.0.0",
-  "main": "App.js",
-  "scripts": { "start": "node App.js" },
+  "main": "app.js",
+  "scripts": { "start": "node app.js" },
   "dependencies": {
     "express": "^4.18.2",
     "mongoose": "^7.5.0",
